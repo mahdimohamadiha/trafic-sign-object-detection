@@ -1,0 +1,9 @@
+train: data/images/train/ 
+val:  data/images/val/
+test: data/images/test/
+
+# number of classes
+nc: 10
+
+# class names
+names: ["Stop", "Crosswalk", "SL 40", "SL 80", "SL 100", "No standing", "No entry", "Bicycle Crossing", "Turn right", "No left turn"]
