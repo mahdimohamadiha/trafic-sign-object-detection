@@ -26,5 +26,6 @@ Then upload the database and test folders and the dataset.yaml file to your Goog
   <li>Add test pictures</li>
   <li>Data Config File</li>
   <li>Train with pretrained weights</li>
+  <li>Inference</li>
 </ul> 
 
