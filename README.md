@@ -26,6 +26,15 @@ Then upload the database and test folders and the dataset.yaml file to your Goog
   <li>Add test pictures</li>
   <li>Data Config File</li>
   <li>Train with pretrained weights</li>
+  <li>Train from scratch</li>
   <li>Inference</li>
 </ul> 
+
+## Methods of training
+
+There are two ways to train. 
+
+The first method uses a pretrained model and the second Train from scratch and use random weights.
+
+The second method has lower accuracy due to not using the pretrained model.
 
